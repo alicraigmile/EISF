@@ -1,0 +1,28 @@
+-classpath
+'D:/RC/NET_2_2_RC3/target/classes'
+-encoding
+'iso-8859-1'
+-protected
+-quiet
+-source
+'1.5'
+-sourcepath
+'D:/RC/NET_2_2_RC3/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2001-2010 <a href="http://www.apache.org/">The Apache Software Foundation</a>. All Rights Reserved.'
+-charset
+'iso-8859-1'
+-d
+'D:/RC/NET_2_2_RC3/target/site/apidocs'
+-docencoding
+'iso-8859-1'
+-doctitle
+'Commons Net 2.2 API'
+-link
+'http://download.oracle.com/javase/6/docs/api'
+-linksource
+-use
+-version
+-windowtitle
+'Commons Net 2.2 API'
